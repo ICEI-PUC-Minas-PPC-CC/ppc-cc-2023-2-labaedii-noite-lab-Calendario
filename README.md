@@ -6,10 +6,9 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Diogo jacinto da Silva
+- Luis Ricardo Cardoso
+- Vinícius Dias Oliveira
 
 # Documentação
 
