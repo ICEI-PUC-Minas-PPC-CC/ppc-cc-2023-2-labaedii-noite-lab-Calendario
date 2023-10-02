@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Diogo jacinto da Silva
+- Diogo Jacinto da Silva
 - Luis Ricardo Cardoso
 - Vinícius Dias Oliveira
 
