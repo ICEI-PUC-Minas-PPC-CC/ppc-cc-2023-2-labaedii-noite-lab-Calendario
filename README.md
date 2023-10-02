@@ -1,4 +1,4 @@
-# PROOJETO DA CALENDÁRIO 
+# PROJETO DO CALENDÁRIO 
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
